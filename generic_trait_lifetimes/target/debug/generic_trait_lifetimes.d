@@ -1,0 +1,1 @@
+/Users/thomas/dev/Rust/rust_concepts_101/generic_trait_lifetimes/target/debug/generic_trait_lifetimes: /Users/thomas/dev/Rust/rust_concepts_101/generic_trait_lifetimes/src/lib.rs /Users/thomas/dev/Rust/rust_concepts_101/generic_trait_lifetimes/src/main.rs
